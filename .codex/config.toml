@@ -1,0 +1,6 @@
+# echoes automations need private local credentials, NotebookLM browser
+# state, the normal uv cache, and outbound access to Scholar Inbox, NotebookLM,
+# arXiv, and Telegram. Project-scoped automations inherit this trusted-project
+# config.
+sandbox_mode = "danger-full-access"
+approval_policy = "never"

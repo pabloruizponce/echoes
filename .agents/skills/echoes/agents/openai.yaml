@@ -1,0 +1,4 @@
+interface:
+  display_name: "echoes"
+  short_description: "Prepare, review, run, and schedule digests"
+  default_prompt: "Use $echoes to prepare setup, run a reviewed Scholar Inbox digest, or configure the daily automation."
